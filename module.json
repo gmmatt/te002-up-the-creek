@@ -1,73 +1,100 @@
 {
-	"name": "te002-up-the-creek",
-	"title": "Torg Eternity - Up the Creek Introductory Adventure Module",
-	"description": "An introductory adventure module for Torg Eternity",
-	"author": "VTT Southwest, LLC",
-	"version": "1.3",
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion":"9",
-	"packs": [
-		{
-			"name": "up-the-creek-actors",
-			"label": "Up the Creek (Actors)",
-			"path": "packs/up-the-creek-actors.db",
-			"entity": "Actor",
-			"module": "te002-up-the-creek"
-		},
+    "name": "te002-up-the-creek",
+    "title": "Torg Eternity - Up the Creek Introductory Adventure Module",
+    "description": "An introductory adventure module for Torg Eternity",
+    "author": "VTT Southwest, LLC",
+    "version": "1.3",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [{
+            "name": "up-the-creek-actors",
+            "label": "Up the Creek (Actors)(en)",
+            "path": "packs/up-the-creek-actors.db",
+            "entity": "Actor",
+            "module": "te002-up-the-creek"
+        },
 
-		{
-			"name": "up-the-creek-journals",
-			"label": "Up the Creek (Journals)",
-			"path": "packs/up-the-creek-journals.db",
-			"entity": "JournalEntry",
-			"module": "te002-up-the-creek"
-		},
-		
-		{
-			"name": "up-the-creek-scenes",
-			"label": "Up the Creek (Scenes)",
-			"path": "packs/up-the-creek-scenes.db",
-			"entity": "Scene",
-			"module": "te002-up-the-creek"
-		},
+        {
+            "name": "up-the-creek-journals",
+            "label": "Up the Creek (Journals)(en)",
+            "path": "packs/up-the-creek-journals.db",
+            "entity": "JournalEntry",
+            "module": "te002-up-the-creek"
+        },
 
-		{
-			"name": "up-the-creek-cards",
-			"label": "Up the Creek (Cards)",
-			"path": "packs/up-the-creek-cards.db",
-			"entity": "Cards",
-			"module": "te002-up-the-creek"
-		},
-		{
-			"name": "flussaufwaerts-actors",
-			"label": "Flussaufwärts (Actors)",
-			"path": "packs/de/flussaufwaerts-actors.db",
-			"entity": "Actor",
-			"module": "te002-up-the-creek"
-		},
-		{
-			"name": "flussaufwaerts-journals",
-			"label": "Flussaufwärts (Journaleinträge)",
-			"path": "packs/de/flussaufwaerts-journals.db",
-			"entity": "JournalEntry",
-			"module": "te002-up-the-creek"
-		},
-		{
-			"name": "flussaufwaerts-scenes",
-			"label": "Flussaufwärts (Szenen)",
-			"path": "packs/de/flussaufwaerts-scenes.db",
-			"entity": "Scene",
-			"module": "te002-up-the-creek"
-		},
-		{
-			"name": "flussaufwaerts-cards",
-			"label": "Flussaufwärts (Karten)",
-			"path": "packs/de/flussaufwaerts-cards.db",
-			"entity": "Cards",
-			"module": "te002-up-the-creek"
-		}
-	],
-	"url": "https://github.com/gmmatt/te002-up-the-creek",
-	"manifest": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/module.json",
-	"download": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/te002-up-the-creek.zip"
+        {
+            "name": "up-the-creek-scenes",
+            "label": "Up the Creek (Scenes)(en)",
+            "path": "packs/up-the-creek-scenes.db",
+            "entity": "Scene",
+            "module": "te002-up-the-creek"
+        },
+
+        {
+            "name": "up-the-creek-cards",
+            "label": "Up the Creek (Cards)(en)",
+            "path": "packs/up-the-creek-cards.db",
+            "entity": "Cards",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "flussaufwaerts-actors",
+            "label": "Flussaufwärts (Actors)(de)",
+            "path": "packs/de/flussaufwaerts-actors.db",
+            "entity": "Actor",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "flussaufwaerts-journals",
+            "label": "Flussaufwärts (Journaleinträge)(de)",
+            "path": "packs/de/flussaufwaerts-journals.db",
+            "entity": "JournalEntry",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "flussaufwaerts-scenes",
+            "label": "Flussaufwärts (Szenen)(de)",
+            "path": "packs/de/flussaufwaerts-scenes.db",
+            "entity": "Scene",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "flussaufwaerts-cards",
+            "label": "Flussaufwärts (Karten)(de)",
+            "path": "packs/de/flussaufwaerts-cards.db",
+            "entity": "Cards",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "Au-delà du fleuve(acteurs)(fr)",
+            "label": "Au-delà du fleuve(acteurs)(fr)",
+            "path": "packs/fr/up-the-creek-actors.db",
+            "entity": "Actor",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "Au-delà du fleuve(cartes)(fr)",
+            "label": "Au-delà du fleuve(cartes)(fr)",
+            "path": "packs/fr/up-the-creek-cards.db",
+            "entity": "Cards",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "Au-delà du fleuve(journaux)(fr)",
+            "label": "Au-delà du fleuve(journaux)(fr)",
+            "path": "packs/fr/up-the-creek-journals.db",
+            "entity": "JournalEntry",
+            "module": "te002-up-the-creek"
+        },
+        {
+            "name": "Au-delà du fleuve(scenes)(fr)",
+            "label": "Au-delà du fleuve(scenes)(fr)",
+            "path": "packs/fr/up-the-creek-scenes.db",
+            "entity": "Scene",
+            "module": "te002-up-the-creek"
+        }
+    ],
+    "url": "https://github.com/gmmatt/te002-up-the-creek",
+    "manifest": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/module.json",
+    "download": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/te002-up-the-creek.zip"
 }
