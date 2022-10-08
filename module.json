@@ -1,5 +1,5 @@
 {
-    "name": "te002-up-the-creek",
+    "id": "te002-up-the-creek",
     "title": "Torg Eternity - Up the Creek Introductory Adventure Module",
     "description": "An introductory adventure module for Torg Eternity",
     "authors": [
@@ -7,10 +7,10 @@
        "name": "VTT Southwest, LLC"
        }
      ],
-    "version": "1.6",
+    "version": "2.0.0",
    "relationships.system": "torgeternity",
     "compatibility": {
-      "minimum": "9",
+      "minimum": "10",
       "verified": "10"
     },
     "packs": [{
