@@ -6,114 +6,311 @@
        {
        "name": "VTT Southwest, LLC"
        }
-     ],
-    "version": "2.0.0",
-   "relationships.system": "torgeternity",
+    ],
+    "version": "2.1.0",
     "compatibility": {
-      "minimum": "10",
-      "verified": "10"
+      "minimum": "11",
+      "verified": "11"
     },
+    "relationships": {
+      "systems": [{
+        "id": "torgeternity",
+        "type": "system"
+      }]
+    },
+  "media":[{
+    "type": "setup",
+    "url": "modules/te002-up-the-creek/images/thumbs/setup.webp",
+    "thumbnail": "modules/te002-up-the-creek/images/thumbs/setup-thumb.webp"
+  }],
+    "url": "https://github.com/gmmatt/te002-up-the-creek",
+    "manifest": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/module.json",
+    "download": "https://github.com/gmmatt/te002-up-the-creek/releases/v2.0.0/te002-up-the-creek.zip",
     "packs": [{
             "name": "up-the-creek-actors",
-            "label": "Up the Creek (Actors)(en)",
+            "label": "Up the Creek: Threats (en)",
             "path": "packs/up-the-creek-actors.db",
             "type": "Actor",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
-
         {
             "name": "up-the-creek-journals",
-            "label": "Up the Creek (Journals)(en)",
+            "label": "Up the Creek: Adventure (en)",
             "path": "packs/up-the-creek-journals.db",
             "type": "JournalEntry",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
-
+        {
+            "name": "up-the-creek-handouts",
+            "label": "Up the Creek: Handouts (en)",
+            "path": "packs/up-the-creek-handouts.db",
+            "type": "JournalEntry",
+            "system": "torgeternity",
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
+        },
         {
             "name": "up-the-creek-scenes",
-            "label": "Up the Creek (Scenes)(en)",
+            "label": "Up the Creek: Scenes (en)",
             "path": "packs/up-the-creek-scenes.db",
             "type": "Scene",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
-
         {
             "name": "up-the-creek-cards",
-            "label": "Up the Creek (Cards)(en)",
+            "label": "Up the Creek: Cards (en)",
             "path": "packs/up-the-creek-cards.db",
             "type": "Cards",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "flussaufwaerts-actors",
-            "label": "Flussaufwärts (Actors)(de)",
+            "label": "Flussaufwärts: Bedrohungen (de)",
             "path": "packs/de/flussaufwaerts-actors.db",
             "type": "Actor",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "flussaufwaerts-journals",
-            "label": "Flussaufwärts (Journaleinträge)(de)",
+            "label": "Flussaufwärts: Abenteuer (de)",
             "path": "packs/de/flussaufwaerts-journals.db",
             "type": "JournalEntry",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
+        },
+        {
+            "name": "flussaufwaerts-handouts",
+            "label": "Flussaufwärts: Handouts (de)",
+            "path": "packs/de/flussaufwaerts-handouts.db",
+            "type": "JournalEntry",
+            "system": "torgeternity",
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "flussaufwaerts-scenes",
-            "label": "Flussaufwärts (Szenen)(de)",
+            "label": "Flussaufwärts: Szenen (de)",
             "path": "packs/de/flussaufwaerts-scenes.db",
             "type": "Scene",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "flussaufwaerts-cards",
-            "label": "Flussaufwärts (Karten)(de)",
+            "label": "Flussaufwärts: Karten (de)",
             "path": "packs/de/flussaufwaerts-cards.db",
             "type": "Cards",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "Au-delà du fleuve(acteurs)(fr)",
-            "label": "Au-delà du fleuve(acteurs)(fr)",
+            "label": "Au-delà du fleuve: acteurs (fr)",
             "path": "packs/fr/up-the-creek-actors.db",
             "type": "Actor",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "Au-delà du fleuve(cartes)(fr)",
-            "label": "Au-delà du fleuve(cartes)(fr)",
+            "label": "Au-delà du fleuve: cartes (fr)",
             "path": "packs/fr/up-the-creek-cards.db",
             "type": "Cards",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "Au-delà du fleuve(journaux)(fr)",
-            "label": "Au-delà du fleuve(journaux)(fr)",
+            "label": "Au-delà du fleuve: journaux (fr)",
             "path": "packs/fr/up-the-creek-journals.db",
             "type": "JournalEntry",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         },
         {
             "name": "Au-delà du fleuve(scenes)(fr)",
-            "label": "Au-delà du fleuve(scenes)(fr)",
+            "label": "Au-delà du fleuve: scenes (fr)",
             "path": "packs/fr/up-the-creek-scenes.db",
             "type": "Scene",
             "system": "torgeternity",
-            "module": "te002-up-the-creek"
+            "private": true,
+	    "ownership": {
+		"ASSISTANT": "OWNER"
+	    },
+            "flags": {}
         }
     ],
-    "url": "https://github.com/gmmatt/te002-up-the-creek",
-    "manifest": "https://github.com/gmmatt/te002-up-the-creek/releases/latest/download/module.json",
-    "download": "https://github.com/gmmatt/te002-up-the-creek/releases/v2.0.0/te002-up-the-creek.zip"
+  "packFolders": [{
+       "name": "TORG Eternity - Up the Creek Introductory Adventure Module",
+        "sorting": "m",
+        "color": "#415a9b",
+        "folders": [{
+          "name": "English",
+          "sorting": "m",
+          "color": "#960000",
+          "folders": [{
+             "name": "Journals",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "up-the-creek-journals",
+              "up-the-creek-handouts"
+            ]
+          },
+          {
+            "name": "Actors",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "up-the-creek-actors"
+            ]
+          },
+          {
+            "name": "Scenes",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "up-the-creek-scenes"
+            ]
+          },
+          {
+            "name": "Cards",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "up-the-creek-cards"
+            ]
+          }]
+        },
+        {
+          "name": "Deutsch",
+          "sorting": "m",
+          "color": "#960000",
+          "folders": [{
+            "name": "Journale",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "flussaufwaerts-journals",
+              "flussaufwaerts-handouts"
+            ]
+          },
+          {
+            "name": "Akteure",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "flussaufwaerts-actors"
+            ]
+          },
+          {
+            "name": "Szenen",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "flussaufwaerts-scenes"
+            ]
+          },
+           {
+            "name": "Karten",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "flussaufwaerts-cards"
+            ]
+          }]
+        },
+        {
+          "name": "Français",
+          "sorting": "m",
+          "color": "#960000",
+          "folders": [{
+            "name": "Journals",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "Au-delà du fleuve(journaux)(fr)"
+            ]
+          },
+          {
+            "name": "Actors",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "Au-delà du fleuve(acteurs)(fr)"
+            ]
+          },
+          {
+            "name": "Scenes",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "Au-delà du fleuve(scenes)(fr)"
+            ]
+          },
+           {
+            "name": "Card Decks",
+            "sorting": "m",
+            "color": "#415a9b",
+            "packs": [
+              "Au-delà du fleuve(cartes)(fr)"
+            ]
+          }]
+        }]
+      }]
 }

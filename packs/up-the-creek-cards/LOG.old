@@ -1,0 +1,7 @@
+2023/07/15-21:16:09.622 55ac Recovering log #26
+2023/07/15-21:16:09.630 55ac Delete type=0 #26
+2023/07/15-21:16:09.630 55ac Delete type=3 #24
+2023/07/15-22:07:41.459 46d0 Level-0 table #31: started
+2023/07/15-22:07:41.459 46d0 Level-0 table #31: 0 bytes OK
+2023/07/15-22:07:41.459 46d0 Delete type=0 #29
+2023/07/15-22:07:41.466 46d0 Manual compaction at level-0 from '!cards!pGOHehRru9DEVmq1' @ 72057594037927935 : 1 .. '!cards.cards!pGOHehRru9DEVmq1.zwNb09ttFXZfBF1B' @ 0 : 0; will stop at (end)
