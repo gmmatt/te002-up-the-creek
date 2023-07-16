@@ -1,7 +1,7 @@
 import { registerUpTheCreekSettings } from "./settings.js";
 
 Hooks.once("init", async function() {
-    console.log("torgeternity | Initializing Hostel Takeover Adventure Module");
+    console.log("torgeternity | Initializing Up the Creek Introductory Adventure Module");
 
     //-----system settings
     registerUpTheCreekSettings()
