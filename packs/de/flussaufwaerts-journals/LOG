@@ -1,3 +1,5 @@
-2023/07/16-06:27:52.339 68e8 Recovering log #34
-2023/07/16-06:27:52.342 68e8 Delete type=0 #34
-2023/07/16-06:27:52.342 68e8 Delete type=3 #33
+2023/07/18-10:49:21.529 5fcc Recovering log #52
+2023/07/18-10:49:21.529 5fcc Level-0 table #54: started
+2023/07/18-10:49:21.539 5fcc Level-0 table #54: 321044 bytes OK
+2023/07/18-10:49:21.539 5fcc Delete type=0 #52
+2023/07/18-10:49:21.539 5fcc Delete type=3 #51

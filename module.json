@@ -18,6 +18,9 @@
         "type": "system"
       }]
     },
+    "esmodules": [
+      "te002-up-the-creek.js"
+    ],
   "media":[{
     "type": "setup",
     "url": "modules/te002-up-the-creek/images/thumbs/setup.webp",
