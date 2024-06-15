@@ -78,9 +78,9 @@
             "flags": {}
         },
         {
-            "name": "flussaufwaerts-actors",
+            "name": "flussaufwaerts-actors-de",
             "label": "Flussaufwärts: Bedrohungen (de)",
-            "path": "packs/de/flussaufwaerts-actors.db",
+            "path": "packs/flussaufwaerts-actors-de.db",
             "type": "Actor",
             "system": "torgeternity",
             "private": true,
@@ -90,9 +90,9 @@
             "flags": {}
         },
         {
-            "name": "flussaufwaerts-journals",
+            "name": "flussaufwaerts-journals-de",
             "label": "Flussaufwärts: Abenteuer (de)",
-            "path": "packs/de/flussaufwaerts-journals.db",
+            "path": "packs/flussaufwaerts-journals-de.db",
             "type": "JournalEntry",
             "system": "torgeternity",
             "private": true,
@@ -102,9 +102,9 @@
             "flags": {}
         },
         {
-            "name": "flussaufwaerts-handouts",
+            "name": "flussaufwaerts-handouts-de",
             "label": "Flussaufwärts: Handouts (de)",
-            "path": "packs/de/flussaufwaerts-handouts.db",
+            "path": "packs/flussaufwaerts-handouts-de.db",
             "type": "JournalEntry",
             "system": "torgeternity",
             "private": true,
@@ -114,9 +114,9 @@
             "flags": {}
         },
         {
-            "name": "flussaufwaerts-scenes",
+            "name": "flussaufwaerts-scenes-de",
             "label": "Flussaufwärts: Szenen (de)",
-            "path": "packs/de/flussaufwaerts-scenes.db",
+            "path": "packs/flussaufwaerts-scenes-de.db",
             "type": "Scene",
             "system": "torgeternity",
             "private": true,
@@ -126,9 +126,9 @@
             "flags": {}
         },
         {
-            "name": "Au-delà du fleuve(acteurs)(fr)",
+            "name": "Au-dela-du-fleuve-acteurs-fr",
             "label": "Au-delà du fleuve: acteurs (fr)",
-            "path": "packs/fr/up-the-creek-actors.db",
+            "path": "packs/up-the-creek-actors-fr.db",
             "type": "Actor",
             "system": "torgeternity",
             "private": true,
@@ -138,9 +138,9 @@
             "flags": {}
         },
         {
-            "name": "Au-delà du fleuve(cartes)(fr)",
+            "name": "Au-dela-du-fleuve-cartes-fr",
             "label": "Au-delà du fleuve: cartes (fr)",
-            "path": "packs/fr/up-the-creek-cards.db",
+            "path": "packs/up-the-creek-cards-fr.db",
             "type": "Cards",
             "system": "torgeternity",
             "private": true,
@@ -150,9 +150,9 @@
             "flags": {}
         },
         {
-            "name": "Au-delà du fleuve(journaux)(fr)",
+            "name": "Au-dela-du-fleuve-journaux-fr",
             "label": "Au-delà du fleuve: journaux (fr)",
-            "path": "packs/fr/up-the-creek-journals.db",
+            "path": "packs/up-the-creek-journals-fr.db",
             "type": "JournalEntry",
             "system": "torgeternity",
             "private": true,
@@ -162,9 +162,9 @@
             "flags": {}
         },
         {
-            "name": "Au-delà du fleuve(scenes)(fr)",
+            "name": "Au-dela-du-fleuve-scenes-fr",
             "label": "Au-delà du fleuve: scenes (fr)",
-            "path": "packs/fr/up-the-creek-scenes.db",
+            "path": "packs/up-the-creek-scenes-fr.db",
             "type": "Scene",
             "system": "torgeternity",
             "private": true,
@@ -217,8 +217,8 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "flussaufwaerts-journals",
-              "flussaufwaerts-handouts"
+              "flussaufwaerts-journals-de",
+              "flussaufwaerts-handouts-de"
             ]
           },
           {
@@ -226,7 +226,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "flussaufwaerts-actors"
+              "flussaufwaerts-actors-de"
             ]
           },
           {
@@ -234,7 +234,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "flussaufwaerts-scenes"
+              "flussaufwaerts-scenes-de"
             ]
           }]
         },
@@ -247,7 +247,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "Au-delà du fleuve(journaux)(fr)"
+              "Au-dela-du-fleuve-journaux-fr"
             ]
           },
           {
@@ -255,7 +255,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "Au-delà du fleuve(acteurs)(fr)"
+              "Au-dela-du-fleuve-acteurs-fr"
             ]
           },
           {
@@ -263,7 +263,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "Au-delà du fleuve(scenes)(fr)"
+              "Au-dela-du-fleuve-scenes-fr"
             ]
           },
            {
@@ -271,7 +271,7 @@
             "sorting": "m",
             "color": "#415a9b",
             "packs": [
-              "Au-delà du fleuve(cartes)(fr)"
+              "Au-dela-du-fleuve-cartes-fr"
             ]
           }]
         }]
