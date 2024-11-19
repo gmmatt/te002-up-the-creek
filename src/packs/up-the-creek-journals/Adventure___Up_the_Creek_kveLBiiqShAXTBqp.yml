@@ -22,10 +22,12 @@ pages:
     _stats:
       systemId: null
       systemVersion: null
-      coreVersion: null
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.7Qhn3uaX0S5UymrN'
   - name: About this Adventure
     type: text
@@ -53,10 +55,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1689482150220
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.ev7xmzSTvPkL9xwu'
   - name: Introduction
     type: text
@@ -172,10 +176,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 3.7.3
-      coreVersion: '11.315'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1716104529482
       lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.qwLnyXQrLUHe1nRg'
   - name: 'Scene One: The Journey Begins'
     type: text
@@ -203,10 +209,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 3.7.3
-      coreVersion: '11.315'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1716105192216
       lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.OYKVBxkiym3OKYBn'
   - name: 'Scene Two:  Land Ho!'
     type: text
@@ -234,10 +242,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 3.7.3
-      coreVersion: '11.315'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1716105302678
       lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.10xxi2xGtYCpTHvq'
   - name: Cosm Cards
     type: text
@@ -301,10 +311,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 3.7.3
-      coreVersion: '11.315'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1716105377505
       lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.u1sw93T4ub3Lopnr'
   - name: Credits/Legal
     type: text
@@ -358,10 +370,12 @@ pages:
     _stats:
       systemId: null
       systemVersion: null
-      coreVersion: null
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.TSs4KVtlu49LCPVB'
   - name: Drama Cards
     type: text
@@ -438,10 +452,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 3.7.3
-      coreVersion: '11.315'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1716105431642
       lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!kveLBiiqShAXTBqp.pUhd09yHBxlTYs0B'
 flags:
   core:
@@ -449,10 +465,12 @@ flags:
 _stats:
   systemId: torgeternity
   systemVersion: 3.7.3
-  coreVersion: '11.315'
+  coreVersion: '12.331'
   createdTime: 1663756749053
   modifiedTime: 1716105431642
   lastModifiedBy: GJLkrWXIPZRbEU79
+  compendiumSource: JournalEntry.kveLBiiqShAXTBqp
+  duplicateSource: null
 _id: kveLBiiqShAXTBqp
 folder: null
 sort: 0

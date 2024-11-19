@@ -1,6 +1,6 @@
 name: Handouts
 pages:
-  - sort: 200000
+  - sort: 100000
     name: Cover
     type: image
     _id: GtRBdQehpRXiFM1B
@@ -26,10 +26,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689450456757
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030373467
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!NJ40He1HiWWUjeyG.GtRBdQehpRXiFM1B'
   - sort: 200000
     name: Gospog Kampf
@@ -56,13 +58,15 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
       modifiedTime: 1689450587109
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _id: eK2pTr4rnm2mG3ks
     _key: '!journal.pages!NJ40He1HiWWUjeyG.eK2pTr4rnm2mG3ks'
-  - sort: 200000
+  - sort: 300000
     name: Edeinos Krieger
     type: image
     title:
@@ -87,10 +91,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689450577877
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030373467
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _id: xorjvkcr8JXOostG
     _key: '!journal.pages!NJ40He1HiWWUjeyG.xorjvkcr8JXOostG'
   - name: Bedrohungskarte - Edeinos Krieger
@@ -108,7 +114,7 @@ pages:
       controls: true
       volume: 0.5
     system: {}
-    sort: 200000
+    sort: 575000
     ownership:
       default: -1
       h2oE5Ikd7rcZX2S7: 3
@@ -119,12 +125,14 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689450465676
-      modifiedTime: 1689450566285
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030378853
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!NJ40He1HiWWUjeyG.m0LJhgvBcHdkCyGb'
-  - sort: 200000
+  - sort: 500000
     name: Gospog
     type: image
     title:
@@ -149,10 +157,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689450469358
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030373467
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _id: jUVxaMAatWbTMohB
     _key: '!journal.pages!NJ40He1HiWWUjeyG.jUVxaMAatWbTMohB'
   - name: Bedrohungskarte - Gospog
@@ -170,7 +180,7 @@ pages:
       controls: true
       volume: 0.5
     system: {}
-    sort: 200000
+    sort: 600000
     ownership:
       default: -1
       h2oE5Ikd7rcZX2S7: 3
@@ -181,12 +191,14 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689450470948
-      modifiedTime: 1689450537692
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030373467
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!NJ40He1HiWWUjeyG.PxNhvZ0ZocIROSfP'
-  - sort: 200000
+  - sort: 550000
     name: Tyrannosaurus Rex
     type: image
     title:
@@ -211,10 +223,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689450510621
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030376763
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _id: BoU3zseDNOEjqy5i
     _key: '!journal.pages!NJ40He1HiWWUjeyG.BoU3zseDNOEjqy5i'
   - name: Bedrohungskarte - Tyrannosaurus Rex
@@ -232,7 +246,7 @@ pages:
       controls: true
       volume: 0.5
     system: {}
-    sort: 200000
+    sort: 800000
     ownership:
       default: -1
       h2oE5Ikd7rcZX2S7: 3
@@ -243,20 +257,24 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689450474197
-      modifiedTime: 1689450502252
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732030373467
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!NJ40He1HiWWUjeyG.D4VgbEDapmnCRGa5'
 flags:
   core: {}
 _stats:
   systemId: torgeternity
   systemVersion: 2.9.3
-  coreVersion: '11.305'
+  coreVersion: '12.331'
   createdTime: 1663757034369
   modifiedTime: 1689451127174
   lastModifiedBy: h2oE5Ikd7rcZX2S7
+  compendiumSource: null
+  duplicateSource: null
 folder: null
 ownership:
   default: 0

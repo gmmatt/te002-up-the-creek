@@ -1,8 +1,35 @@
 name: Gospog of the 1st Planting
 type: threat
-img: modules/te002-up-the-creek/portraits/Gospog_of_the_1st_Planting.Avatar.webp
+img: >-
+  modules/te001-core-rulebook/images/characters/Gospog_of_the_1st_Planting.Avatar.webp?1618263451213
 items:
-  - _id: Hp2aNgbCDX9WsCXJ
+  - _id: HESbYqapLAQKaVGT
+    name: Claws
+    type: specialability-rollable
+    sort: 100000
+    flags: {}
+    img: systems/torgeternity/images/icons/bite-icon.webp
+    effects: []
+    folder: null
+    system:
+      ap: 0
+      attackWith: unarmedCombat
+      chatNote: ''
+      damage: 10
+      description: <p><em>Strength</em> +2 (10)</p>
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '12.331'
+      createdTime: null
+      modifiedTime: 1689450050044
+      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
+    _key: '!actors.items!nbkMgtx9cDR3XzGt.HESbYqapLAQKaVGT'
+  - _id: UdieyKmdEAue5Q0b
     name: Fear
     type: specialability
     sort: 200000
@@ -18,14 +45,16 @@ items:
     ownership:
       default: 0
     _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
       systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '11.305'
+      systemVersion: 12.3.3
       createdTime: null
-      modifiedTime: 1689450070828
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
-    _key: '!actors.items!nbkMgtx9cDR3XzGt.Hp2aNgbCDX9WsCXJ'
-  - _id: lCjvGOZXsEsw0P92
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nbkMgtx9cDR3XzGt.UdieyKmdEAue5Q0b'
+  - _id: v9ZiZiN2D7r85pB0
     name: Mindless
     type: specialability
     sort: 300000
@@ -40,14 +69,16 @@ items:
     ownership:
       default: 0
     _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
       systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '11.305'
+      systemVersion: 12.3.3
       createdTime: null
-      modifiedTime: 1689450062316
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
-    _key: '!actors.items!nbkMgtx9cDR3XzGt.lCjvGOZXsEsw0P92'
-  - _id: NNXRG7ysUpRhjZU4
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nbkMgtx9cDR3XzGt.v9ZiZiN2D7r85pB0'
+  - _id: aNRrcGZZQf1hygm7
     name: Relentless
     type: specialability
     sort: 400000
@@ -60,370 +91,388 @@ items:
     ownership:
       default: 0
     _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.331'
       systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '11.305'
+      systemVersion: 12.3.3
       createdTime: null
-      modifiedTime: 1689450056100
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
-    _key: '!actors.items!nbkMgtx9cDR3XzGt.NNXRG7ysUpRhjZU4'
-  - _id: d4zZKWHG2OJJ3yox
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nbkMgtx9cDR3XzGt.aNRrcGZZQf1hygm7'
+  - _id: zbRvIz9RVFr6EN4C
     name: Undead
     type: specialability
-    sort: 500000
-    flags: {}
     img: systems/torgeternity/images/icons/torgeternity-icon.webp
     effects: []
     folder: null
+    sort: 500000
+    flags:
+      core:
+        sourceId: Compendium.te001-core-rulebook.Items.sEldYavHCLBwVcrh
     system:
-      description: >-
-        <p>Gospog are immune to poison and other effects that require breathing,
-        eating, or other <q>living</q> processes.</p>
+      description: "<p>Gosposg are immune to powers, spells, or abilities that affect breathing, eating, Fatigue, or other functions required only by the living. Such creatures always count as @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Supernatural Evil}<br />\_when determining the effects that Perks or powers have upon them.</p>"
     ownership:
       default: 0
+      A9LyAqagoJJU3gDH: 3
+      4kr6bmxq7tmWuB59: 3
     _stats:
+      compendiumSource: Compendium.te001-core-rulebook.Items.sEldYavHCLBwVcrh
+      duplicateSource: null
+      coreVersion: '12.331'
       systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '11.305'
+      systemVersion: 12.3.3
       createdTime: null
-      modifiedTime: 1689450044217
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
-    _key: '!actors.items!nbkMgtx9cDR3XzGt.d4zZKWHG2OJJ3yox'
-  - _id: HESbYqapLAQKaVGT
-    name: Claws
-    type: specialability-rollable
-    sort: 100000
-    flags: {}
-    img: systems/torgeternity/images/icons/bite-icon.webp
-    effects: []
-    folder: null
-    system:
-      description: <p><em>Strength</em> +2 (10)</p>
-      attackWith: unarmedCombat
-      damage: 10
-      ap: 0
-      chatNote: ''
-    ownership:
-      default: 0
-    _stats:
-      systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '11.305'
-      createdTime: null
-      modifiedTime: 1689450050044
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
-    _key: '!actors.items!nbkMgtx9cDR3XzGt.HESbYqapLAQKaVGT'
+      modifiedTime: null
+      lastModifiedBy: null
+    _key: '!actors.items!nbkMgtx9cDR3XzGt.zbRvIz9RVFr6EN4C'
 effects: []
 flags:
   core:
     sourceId: Compendium.te001-core-rulebook.Actors.rRNOiCYimxMrLonS
 system:
+  attributes:
+    charisma:
+      base: 5
+    dexterity:
+      base: 7
+    mind:
+      base: 7
+    spirit:
+      base: 7
+    strength:
+      base: 8
+  other:
+    cosm: none
+    possibilities: 0
   shock:
     max: 0
     value: 0
+  skills:
+    airVehicles:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    alteration:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    apportation:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    beastRiding:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    computers:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    conjuration:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    divination:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    dodge:
+      adds: 1
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    energyWeapons:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    evidenceAnalysis:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    faith:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    find:
+      adds: 1
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    fireCombat:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    firstAid:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    heavyWeapons:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    intimidation:
+      adds: 0
+      baseAttribute: spirit
+      groupName: interaction
+      isFav: false
+      unskilledUse: 1
+      defenseOnly: true
+      isThreatSkill: false
+    kinesis:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    landVehicles:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    language:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    lockpicking:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    maneuver:
+      adds: 1
+      baseAttribute: dexterity
+      groupName: interaction
+      isFav: false
+      unskilledUse: 1
+      defenseOnly: false
+      isThreatSkill: false
+    medicine:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    meleeWeapons:
+      adds: 1
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    missileWeapons:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    persuasion:
+      adds: 0
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    precognition:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    profession:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    reality:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    scholar:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    science:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    stealth:
+      adds: 1
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    streetwise:
+      adds: 0
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    survival:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    taunt:
+      adds: 0
+      baseAttribute: charisma
+      groupName: interaction
+      isFav: false
+      unskilledUse: 1
+      defenseOnly: true
+      isThreatSkill: false
+    telepathy:
+      adds: 0
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: 0
+      isThreatSkill: false
+      defenseOnly: false
+    tracking:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    trick:
+      adds: 0
+      baseAttribute: mind
+      groupName: interaction
+      isFav: false
+      unskilledUse: 1
+      defenseOnly: true
+      isThreatSkill: false
+    unarmedCombat:
+      adds: 3
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    waterVehicles:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
+    willpower:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: 1
+      isThreatSkill: false
+      defenseOnly: false
   wounds:
     max: 0
     value: 0
-  attributes:
-    charisma: 5
-    dexterity: 7
-    mind: 7
-    spirit: 7
-    strength: 8
-  other:
-    move: 7
-    run: 21
-    toughness: 8
-    armor: 0
-    cosm: Universal
-    possibilities: 0
-  skills:
-    airVehicles:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    alteration:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    apportation:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    beastRiding:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    computers:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    conjuration:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    divination:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    dodge:
-      baseAttribute: dexterity
-      adds: '1'
-      value: 8
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    energyWeapons:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: combat
-      unskilledUse: 1
-    evidenceAnalysis:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    faith:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    find:
-      baseAttribute: mind
-      adds: '1'
-      value: 8
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    fireCombat:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: combat
-      unskilledUse: 1
-    firstAid:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    heavyWeapons:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: combat
-      unskilledUse: 1
-    intimidation:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: interaction
-      unskilledUse: 1
-      defenseOnly: 'true'
-    kinesis:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    landVehicles:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    language:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    lockpicking:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    maneuver:
-      baseAttribute: dexterity
-      adds: '1'
-      value: 8
-      isFav: false
-      groupName: interaction
-      unskilledUse: 1
-      defenseOnly: 'true'
-    medicine:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    meleeWeapons:
-      baseAttribute: dexterity
-      adds: '1'
-      value: 8
-      isFav: false
-      groupName: combat
-      unskilledUse: 1
-    missileWeapons:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    persuasion:
-      baseAttribute: charisma
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    precognition:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    profession:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    reality:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    scholar:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    science:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    stealth:
-      baseAttribute: dexterity
-      adds: '1'
-      value: 8
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    streetwise:
-      baseAttribute: charisma
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    survival:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    taunt:
-      baseAttribute: charisma
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: interaction
-      unskilledUse: 1
-      defenseOnly: 'true'
-    telepathy:
-      baseAttribute: charisma
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 0
-    tracking:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    trick:
-      baseAttribute: mind
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: interaction
-      unskilledUse: 1
-      defenseOnly: 'true'
-    unarmedCombat:
-      baseAttribute: dexterity
-      adds: '3'
-      value: 10
-      isFav: false
-      groupName: combat
-      unskilledUse: 1
-    waterVehicles:
-      baseAttribute: dexterity
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
-    willpower:
-      baseAttribute: spirit
-      adds: ''
-      value: 0
-      isFav: false
-      groupName: other
-      unskilledUse: 1
   details:
-    possibilitypotential: Never
     description: >-
       <p
       class="moreheight">@UUID[Compendium.te002-up-the-creek.up-the-creek-handouts.JournalEntry.GNZkqxOYRRDp4dsW.JournalEntryPage.jUVxaMAatWbTMohB]{Gospog}</p>
@@ -438,22 +487,22 @@ system:
       strangely adaptable and function without Contradiction in every realm.</p>
     sizeBonus: normal
     clearance: alpha
-  editstate: none
-  possibilities: null
+    possibilityPotential: Never
+  editstate: false
 ownership:
   default: 0
   4kr6bmxq7tmWuB59: 3
 prototypeToken:
   flags: {}
   name: Gospog of the 1st Planting
-  displayName: 30
+  displayName: 40
   width: 1
   height: 1
-  lockRotation: false
+  lockRotation: true
   rotation: 0
-  actorLink: false
+  actorLink: true
   disposition: -1
-  displayBars: 0
+  displayBars: 30
   bar1:
     attribute: wounds
   bar2:
@@ -480,14 +529,21 @@ prototypeToken:
       max: 1
     color: null
     attenuation: 0.5
+    negative: false
+    priority: 0
   texture:
-    src: modules/te002-up-the-creek/portraits/Gospog_of_the_1st_Planting.Token.webp
-    tint: null
+    src: >-
+      modules/te001-core-rulebook/images/characters/token/gospog_of_the_1st_planting.Token.webp
+    tint: '#ffffff'
     scaleX: 1
     scaleY: 1
     offsetX: 0
     offsetY: 0
     rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
   sight:
     angle: 360
     enabled: false
@@ -501,13 +557,27 @@ prototypeToken:
   detectionModes: []
   appendNumber: false
   prependAdjective: false
+  hexagonalShape: 0
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
 _stats:
   systemId: torgeternity
-  systemVersion: 2.9.3
-  coreVersion: '11.305'
+  systemVersion: 12.3.3
+  coreVersion: '12.331'
   createdTime: 1664131392467
-  modifiedTime: 1689450209550
-  lastModifiedBy: h2oE5Ikd7rcZX2S7
+  modifiedTime: 1732030330005
+  lastModifiedBy: d8YcfsxBOP7RAazk
+  compendiumSource: Compendium.te001-core-rulebook.Actors.rRNOiCYimxMrLonS
+  duplicateSource: null
 folder: null
 sort: 0
 _id: nbkMgtx9cDR3XzGt

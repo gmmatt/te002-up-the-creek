@@ -25,10 +25,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1689448871641
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.m0LJhgvBcHdkCyGb'
   - name: Threat Card - Gospog
     type: image
@@ -55,10 +57,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1689448877273
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.PxNhvZ0ZocIROSfP'
   - name: Threat Card - Tyrannosaurus
     type: image
@@ -85,10 +89,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: null
       modifiedTime: 1689448870537
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.D4VgbEDapmnCRGa5'
   - sort: -100000
     name: Cover
@@ -113,10 +119,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
       modifiedTime: 1689448824536
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.GtRBdQehpRXiFM1B'
   - sort: -100000
     name: Gospog Fight
@@ -143,10 +151,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
       modifiedTime: 1689448860321
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _id: eK2pTr4rnm2mG3ks
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.eK2pTr4rnm2mG3ks'
   - sort: -100000
@@ -174,13 +184,15 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
       modifiedTime: 1689448899793
       lastModifiedBy: h2oE5Ikd7rcZX2S7
+      compendiumSource: null
+      duplicateSource: null
     _id: xorjvkcr8JXOostG
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.xorjvkcr8JXOostG'
-  - sort: 75000
+  - sort: -25000
     name: Gospog
     type: image
     title:
@@ -205,13 +217,15 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689448924512
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732027853522
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _id: jUVxaMAatWbTMohB
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.jUVxaMAatWbTMohB'
-  - sort: 100000
+  - sort: 12500
     name: Tyrannosaurus
     type: image
     title:
@@ -236,10 +250,12 @@ pages:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '11.305'
+      coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1689448946417
-      lastModifiedBy: h2oE5Ikd7rcZX2S7
+      modifiedTime: 1732027855638
+      lastModifiedBy: d8YcfsxBOP7RAazk
+      compendiumSource: null
+      duplicateSource: null
     _id: BoU3zseDNOEjqy5i
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.BoU3zseDNOEjqy5i'
 flags:
@@ -247,10 +263,12 @@ flags:
 _stats:
   systemId: torgeternity
   systemVersion: 2.9.3
-  coreVersion: '11.305'
+  coreVersion: '12.331'
   createdTime: 1663757034369
   modifiedTime: 1689448946417
   lastModifiedBy: h2oE5Ikd7rcZX2S7
+  compendiumSource: null
+  duplicateSource: null
 folder: null
 ownership:
   default: 0
