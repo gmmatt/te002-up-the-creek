@@ -32,6 +32,7 @@ jobs:
           zip -r ./te016-pan-pacifica.zip \
             images/ \
             packs/ \
+            portraits/ \
             module.json \
             te002-up-the-creek.js \
             settings.js \
