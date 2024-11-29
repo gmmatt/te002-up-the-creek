@@ -16,7 +16,7 @@ cards:
       - name: Adrenaline
         img: systems/torgeternity/images/cards/destiny/fr/01.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -27,15 +27,14 @@ cards:
     value: 1
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030927376
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.GfEukZR1hJLmdkWh'
@@ -53,7 +52,7 @@ cards:
       - name: Adrenaline
         img: systems/torgeternity/images/cards/destiny/fr/02.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -62,15 +61,14 @@ cards:
     value: 2
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030989071
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.AfUWD40tHg3MOr2Z'
@@ -88,7 +86,7 @@ cards:
       - name: Adrenaline
         img: systems/torgeternity/images/cards/destiny/fr/03.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -97,15 +95,14 @@ cards:
     value: 3
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030984191
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.kjicGouWSABBJTmK'
@@ -123,7 +120,7 @@ cards:
       - name: Adrenaline
         img: systems/torgeternity/images/cards/destiny/fr/04.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -132,15 +129,14 @@ cards:
     value: 4
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030979343
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.M5kSjNktvC48sr9A'
@@ -158,7 +154,7 @@ cards:
       - name: Willpower
         img: systems/torgeternity/images/cards/destiny/05.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -167,15 +163,14 @@ cards:
     value: 5
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030969559
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.vZXuak5PgbayaxfN'
@@ -193,7 +188,7 @@ cards:
       - name: Willpower
         img: systems/torgeternity/images/cards/destiny/fr/06.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -202,15 +197,14 @@ cards:
     value: 6
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030974759
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.ig3MIsYThdsIRlbb'
@@ -228,7 +222,7 @@ cards:
       - name: Willpower
         img: systems/torgeternity/images/cards/destiny/fr/07.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -237,15 +231,14 @@ cards:
     value: 7
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030964495
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.RiaPqchyO7WyyQ9r'
@@ -263,7 +256,7 @@ cards:
       - name: Willpower
         img: systems/torgeternity/images/cards/destiny/fr/08.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -272,15 +265,14 @@ cards:
     value: 8
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030943175
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.BrfUMa6mgAZR6krr'
@@ -298,7 +290,7 @@ cards:
       - name: Alertness
         img: systems/torgeternity/images/cards/destiny/fr/09.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -307,15 +299,14 @@ cards:
     value: 9
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030949839
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.7gddF9Kt6hF8DeGZ'
@@ -333,7 +324,7 @@ cards:
       - name: Alertness
         img: systems/torgeternity/images/cards/destiny/fr/10.webp
         text: ''
-    face: 0
+    face: 1
     drawn: false
     origin: 9PJd5XGY6Zg9aQNk
     rotation: 0
@@ -342,15 +333,14 @@ cards:
     value: 10
     _stats:
       coreVersion: '12.331'
-      systemId: torgeternity
-      systemVersion: 12.3.3
+      systemId: null
+      systemVersion: null
       createdTime: null
-      modifiedTime: 1732030933815
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: null
+      lastModifiedBy: null
       compendiumSource: null
       duplicateSource: null
-    system:
-      number: 0
+    system: {}
     width: null
     height: null
     _key: '!cards.cards!ujDucwTZVJ5J8I4S.LPwdCsECKUSXSwIi'

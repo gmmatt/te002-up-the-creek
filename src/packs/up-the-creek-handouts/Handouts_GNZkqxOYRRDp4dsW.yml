@@ -192,7 +192,7 @@ pages:
       duplicateSource: null
     _id: xorjvkcr8JXOostG
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.xorjvkcr8JXOostG'
-  - sort: -25000
+  - sort: 75000
     name: Gospog
     type: image
     title:
@@ -219,13 +219,13 @@ pages:
       systemVersion: 2.9.3
       coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1732027853522
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: 1689448924512
+      lastModifiedBy: h2oE5Ikd7rcZX2S7
       compendiumSource: null
       duplicateSource: null
     _id: jUVxaMAatWbTMohB
     _key: '!journal.pages!GNZkqxOYRRDp4dsW.jUVxaMAatWbTMohB'
-  - sort: 12500
+  - sort: 100000
     name: Tyrannosaurus
     type: image
     title:
@@ -252,8 +252,8 @@ pages:
       systemVersion: 2.9.3
       coreVersion: '12.331'
       createdTime: 1689448806338
-      modifiedTime: 1732027855638
-      lastModifiedBy: d8YcfsxBOP7RAazk
+      modifiedTime: 1689448946417
+      lastModifiedBy: h2oE5Ikd7rcZX2S7
       compendiumSource: null
       duplicateSource: null
     _id: BoU3zseDNOEjqy5i

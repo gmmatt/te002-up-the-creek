@@ -1,11 +1,7 @@
-_id: 9rsfXYxsCNzQ9dnr
-name: Boot
-active: true
+name: Converted Tour Boat
 navigation: false
-navOrder: 0
-navName: Boot
-foreground: null
-thumb: modules/te002-up-the-creek/assets/scenes/9rsfXYxsCNzQ9dnr-thumb.webp
+navName: Converted Tour Boat
+thumb: worlds/torg-bastelei/assets/scenes/xdoQ4MVkf1ANZ5sJ-thumb.webp
 width: 1297
 height: 1666
 padding: 0.25
@@ -37,7 +33,6 @@ playlistSound: null
 journal: null
 weather: ''
 folder: null
-sort: 0
 flags:
   core:
     sourceId: Scene.e14gVMO3YlmMUfqD
@@ -49,17 +44,17 @@ flags:
     cosm2: coreEarth
 regions: []
 _stats:
-  coreVersion: '12.331'
-  systemId: null
-  systemVersion: null
-  createdTime: null
-  modifiedTime: 1732859164375
-  lastModifiedBy: i3n6V3FKTXdpbMfy
-  compendiumSource: null
+  compendiumSource: Scene.e14gVMO3YlmMUfqD
   duplicateSource: null
+  coreVersion: '12.331'
+  systemId: torgeternity
+  systemVersion: 12.4.0
+  createdTime: 1732859687320
+  modifiedTime: 1732859687320
+  lastModifiedBy: i3n6V3FKTXdpbMfy
 ownership:
   default: 0
-  ZuS1Anc9ORZov40T: 3
+  i3n6V3FKTXdpbMfy: 3
 background:
   src: modules/te002-up-the-creek/images/converted-tour-boat.webp
   offsetX: 0
@@ -108,7 +103,12 @@ fog:
   colors:
     explored: null
     unexplored: null
+foreground: null
 foregroundElevation: null
 journalEntryPage: null
-_key: '!scenes!9rsfXYxsCNzQ9dnr'
+navOrder: 0
+_id: Xv70JC1JdMri1Zvr
+active: false
+sort: 0
+_key: '!scenes!Xv70JC1JdMri1Zvr'
 
